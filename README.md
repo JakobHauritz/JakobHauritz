@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JakobHauritz
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning: React Native
-- 📫 How to reach me: jakobhauritz.com
+- 🌱 I’m currently learning React Native
+- 📫 How to reach me @ jakobhauritz.com
 
 <!---
 JakobHauritz/JakobHauritz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
