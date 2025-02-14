@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JakobHauritz
 - 👀 I’m interested in Web Development & UI Design
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning React
 - 📫 How to reach me @ jakobhauritz.com
 
 <!---
